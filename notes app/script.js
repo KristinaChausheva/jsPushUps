@@ -11,6 +11,7 @@ addBtn.addEventListener('click', () => addNewNote())
 function addNewNote(text = '') {
     const note = document.createElement('div')
     note.classList.add('note')
+    note.classList.add('note-wrap')
 
     note.innerHTML = `
     <div class="tools">
@@ -18,7 +19,7 @@ function addNewNote(text = '') {
         <button class="delete"><i class="fas fa-trash-alt"></i></button>
     </div>
     <div class="main ${text ? "" : "hidden"}"></div>
-    <textarea class="${text ? "hidden" : ""}"></textarea>
+    <textarea class="${text ? "hidden" : ""}" wrap="hard" placeholder="Take a Note..."></textarea>
     `
 
     const editBtn = note.querySelector('.edit')
@@ -27,17 +28,25 @@ function addNewNote(text = '') {
     const textArea = note.querySelector('textarea')
 
     textArea.value = text
-    main.innerHTML = marked(text)
+    main.innerHTML = text
 
     deleteBtn.addEventListener('click', () => {
         note.remove()
-
         updateLS()
     })
 
     editBtn.addEventListener('click', () => {
         main.classList.toggle('hidden')
         textArea.classList.toggle('hidden')
+        textArea.onkeyup = logKey
+        function logKey(e) {
+            console.log(e.code);
+            if (e.code ==="Enter") {
+                main.classList.toggle('hidden')
+                textArea.classList.toggle('hidden')
+            }
+           
+        }
     })
 
     textArea.addEventListener('input', (e) => {

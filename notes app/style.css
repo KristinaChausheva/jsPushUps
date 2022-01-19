@@ -1,12 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
-
 * {
   box-sizing: border-box;
   outline: none;
 }
 
 body {
-  background-color: #7bdaf3;
+  background-color: #caf4b9;
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -18,7 +16,7 @@ body {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background-color: #9ec862;
+  background-color: #7aa651;
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -30,45 +28,109 @@ body {
   transform: scale(0.98);
 }
 
-.note {
-  background-color: #fff;
-  box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
-  margin: 30px 20px;
-  height: 400px;
-  width: 400px;
-  overflow-y: scroll;
+.wrapper {
+  margin: 60px auto 0 auto;
 }
 
-.note .tools {
-  background-color: #9ec862;
-  display: flex;
-  justify-content: flex-end;
-  padding: 0.5rem;
+/* Note styles */
+.note-wrap {
+  width: 235px;
+  min-height: 235px;
+  padding: 35px;
+  margin: 0 22px 44px 22px;
+  position: relative;
+  font-size: 24px;
+  vertical-align: top;
+  display: inline-block;
+  font-family: Englebert, Arial;
+  color: #4b453c;
+  background: #f7e999;
+  line-height: 34px;
+  text-align: center;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+}
+.note-wrap:before {
+  display: block;
+  content: "";
+  background: rgba(227, 200, 114, 0.4);
+  width: 130px;
+  height: 28px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 6px/18px 0;
+  position: absolute;
+  top: -13px;
+  left: 50px;
+  -webkit-transform: rotate(-2deg);
+  -moz-transform: rotate(-2deg);
+  -o-transform: rotate(-2deg);
+  -ms-transform: rotate(-2deg);
+  transform: rotate(-2deg);
 }
 
-.note .tools button {
-  background-color: transparent;
-  border: none;
-  color: #fff;
-  cursor: pointer;
-  font-size: 1rem;
-  margin-left: 0.5rem;
+div.note-wrap:nth-of-type(1) {
+  background: #ffbda3;
+  -webkit-transform: rotate(1deg);
+  -moz-transform: rotate(1deg);
+  -o-transform: rotate(1deg);
+  -ms-transform: rotate(1deg);
+  transform: rotate(1deg);
+}
+div.note-wrap:nth-of-type(3n + 1) {
+  background: #ffbda3;
+  -webkit-transform: rotate(1deg);
+  -moz-transform: rotate(1deg);
+  -o-transform: rotate(1deg);
+  -ms-transform: rotate(1deg);
+  transform: rotate(1deg);
 }
 
-.note textarea {
+.note-wrap:nth-of-type(2n) {
+  background: #b9dcf4;
+  -webkit-transform: rotate(-2deg);
+  -moz-transform: rotate(-2deg);
+  -o-transform: rotate(-2deg);
+  -ms-transform: rotate(-2deg);
+  transform: rotate(-2deg);
+}
+
+.note-wrap:nth-of-type(3n) {
+  background: #caf4b9;
+  -webkit-transform: rotate(-1deg);
+  -moz-transform: rotate(-1deg);
+  -o-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+  transform: rotate(-1deg);
+}
+.note-wrap:nth-of-type(4n) {
+  background: #f7e999;
+  -webkit-transform: rotate(1deg);
+  -moz-transform: rotate(1deg);
+  -o-transform: rotate(1deg);
+  -ms-transform: rotate(1deg);
+  transform: rotate(1deg);
+}
+
+textarea {
   outline: none;
   font-family: inherit;
   font-size: 1.2rem;
   border: none;
-  height: 400px;
+  background-color: transparent;
+  min-height: 235px;
   width: 100%;
-  padding: 20px;
 }
-
 .main {
-  padding: 20px;
+  overflow-wrap: break-word;
 }
 
 .hidden {
   display: none;
+}
+.note .tools button {
+  background-color: transparent;
+  border: none;
+  color: 0;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-left: 0.5rem;
 }
