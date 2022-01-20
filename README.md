@@ -5,3 +5,4 @@
 | 0   | [Expanding Cards](https://github.com/KristinaChausheva/jsPushUps/tree/main/expanding-cards) | [Live Demo](https://kristinachausheva.github.io/jsPushUps/expanding-cards) |
 | 1   | [Drag and Drop](https://github.com/KristinaChausheva/jsPushUps/tree/main/dragAndDrop)       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/dragAndDrop)     |
 | 2   | [Sticky Notes](https://github.com/KristinaChausheva/jsPushUps/tree/main/sticky-notes)       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/sticky-notes)    |
+| 3   | [Animated Form](https://github.com/KristinaChausheva/jsPushUps/tree/main/animated-form)     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/animated-form)   |
