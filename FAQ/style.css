@@ -35,7 +35,7 @@ h1 {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
 }
 
-.faq.active::before,
+/* .faq.active::before,
 .faq.active::after {
   content: "\f075";
   font-family: "Font Awesome 5 Free";
@@ -53,7 +53,7 @@ h1 {
   top: -10px;
   left: -30px;
   transform: rotateY(180deg);
-}
+} */
 
 .faq-title {
   margin: 0 35px 0 0;
