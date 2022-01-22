@@ -7,4 +7,4 @@
 | 2   | [Sticky Notes](https://github.com/KristinaChausheva/jsPushUps/tree/main/sticky-notes)       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/sticky-notes)    |
 | 3   | [Animated Form](https://github.com/KristinaChausheva/jsPushUps/tree/main/animated-form)     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/animated-form)   |
 | 4   | [Hidden Search](https://github.com/KristinaChausheva/jsPushUps/tree/main/hidden-search)     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/hidden-search)   |
-| 5   | [Hidden Search](https://github.com/KristinaChausheva/jsPushUps/tree/main/FAQ)               | [Live Demo](https://kristinachausheva.github.io/jsPushUps/FAQ)             |
+| 5   | [FAQ Component](https://github.com/KristinaChausheva/jsPushUps/tree/main/FAQ)               | [Live Demo](https://kristinachausheva.github.io/jsPushUps/FAQ)             |
