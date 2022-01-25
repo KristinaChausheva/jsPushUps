@@ -18,13 +18,13 @@ body {
   margin: 10px;
   border: solid 3px black;
   background: #077021;
-  border-radius: 0.5em;
+  border-radius: 0.8em;
 }
 
 .fill {
   background-image: url("../assets/ace-of-hearts.png");
-  height: 335px;
-  width: 238px;
+  height: 337px;
+  width: 239px;
   cursor: pointer;
   border-radius: 0.5em;
 }
