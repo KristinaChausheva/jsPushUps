@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: steelblue;
+  background-color: #053f13;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13,18 +13,20 @@ body {
 }
 
 .empty {
-  height: 150px;
-  width: 150px;
+  height: 338px;
+  width: 240px;
   margin: 10px;
   border: solid 3px black;
-  background: white;
+  background: #077021;
+  border-radius: 0.5em;
 }
 
 .fill {
-  background-image: url("https://source.unsplash.com/random/150x150");
-  height: 145px;
-  width: 145px;
+  background-image: url("../assets/ace-of-hearts.png");
+  height: 335px;
+  width: 238px;
   cursor: pointer;
+  border-radius: 0.5em;
 }
 
 .hold {
