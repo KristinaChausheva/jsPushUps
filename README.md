@@ -11,3 +11,5 @@
 | 6   | [Animated Countdown](https://github.com/KristinaChausheva/jsPushUps/tree/main/animated-countdown) | [Live Demo](https://kristinachausheva.github.io/jsPushUps/animated-countdown) |
 | 7   | [Animated Countdown](https://github.com/KristinaChausheva/jsPushUps/tree/main/password-generator) | [Live Demo](https://kristinachausheva.github.io/jsPushUps/password-generator) |
 | 8   | [Animated Countdown](https://github.com/KristinaChausheva/jsPushUps/tree/main/image-carousel)     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/image-carousel)     |
+
+git
