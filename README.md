@@ -13,3 +13,4 @@
 | 8   | [Image Carousel](https://github.com/KristinaChausheva/jsPushUps/tree/main/image-carousel)          | [Live Demo](https://kristinachausheva.github.io/jsPushUps/image-carousel)      |
 | 9   | [Blurry Loading](https://github.com/KristinaChausheva/jsPushUps/tree/main/blurry-loading)          | [Live Demo](https://kristinachausheva.github.io/jsPushUps/blurry-loading)      |
 | 10  | [Icremented Counter](https://github.com/KristinaChausheva/jsPushUps/tree/main/incremented-counter) | [Live Demo](https://kristinachausheva.github.io/jsPushUps/incremented-counter) |
+| 11  | [Icremented Counter](https://github.com/KristinaChausheva/jsPushUps/tree/main/movie-app)           | [Live Demo](https://kristinachausheva.github.io/jsPushUps/movie-app)           |
