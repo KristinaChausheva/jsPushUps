@@ -17,3 +17,4 @@
 | 12  | [Button Ripple Effect](https://github.com/KristinaChausheva/jsPushUps/tree/main/button-ripple-effect) | [Live Demo](https://kristinachausheva.github.io/jsPushUps/button-ripple-effect) |
 | 13  | [Background Slider](https://github.com/KristinaChausheva/jsPushUps/tree/main/background-slider)       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/background-slider)    |
 | 14  | [Search Filter](https://github.com/KristinaChausheva/jsPushUps/tree/main/search-filter)               | [Live Demo](https://kristinachausheva.github.io/jsPushUps/search-filter)        |
+| 15  | [Quiz App](https://github.com/KristinaChausheva/jsPushUps/tree/main/quiz-app)                         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/quiz-app)             |
