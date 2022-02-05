@@ -4,7 +4,7 @@ const img = document.querySelector(".img")
 const actionContainer = document.querySelector(".actions-container")
 const description = document.querySelector(".mc-description")
 
-const rotate = () => {
+const moveForward = () => {
   setTimeout(() => {
     bars.classList.remove("fa-bars")
     bars.classList.add("fa-arrow-left")
@@ -22,4 +22,4 @@ const rotate = () => {
   description.classList.add("mc-description-active")
   description.classList.remove("mc-description")
 }
-bars.addEventListener("click", rotate)
+bars.addEventListener("click", moveForward)
