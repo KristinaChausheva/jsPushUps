@@ -1,0 +1,149 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  display: block;
+  font-family: sans-serif;
+  align-items: center;
+  height: 90%;
+  width: 90%;
+}
+
+.card-container {
+  position: absolute;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  border: solid black 3px;
+  width: 30em;
+  overflow: hidden;
+  background-color: #c9ddf5;
+  z-index: -2;
+}
+img {
+  width: 30em;
+}
+
+.actions-container {
+  width: 90px;
+  height: 90px;
+  background-color: white;
+  position: relative;
+  top: -35em;
+  right: -23em;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.fa-bars {
+  padding: 0.6em;
+  width: 70px;
+  height: 70px;
+  background-color: #03a9f4;
+  border-radius: 50%;
+  margin: 10px;
+  animation-name: barsAnimation;
+  animation-duration: 5000s;
+}
+
+.fa-arrow-left {
+  padding: 0.6em 0 0 0.6em;
+  width: 70px;
+  height: 70px;
+  background-color: #03a9f4;
+  border-radius: 50%;
+  margin: 10px;
+  z-index: 2;
+  /* animation-name: barsAnimation;
+  animation-duration: 5000s; */
+}
+
+.header {
+  background-color: #03a9f4;
+  color: white;
+  font-size: 180%;
+  padding: 0.5em 0;
+}
+
+.header-active {
+  background-color: #03a9f4;
+  color: white;
+  font-size: 180%;
+  padding: 0.5em 0.5em 0.5em 0em;
+  position: relative;
+  top: -3em;
+  padding-left: 3em;
+  z-index: 0;
+}
+
+.img-active {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  z-index: 1;
+  padding: 0.5em;
+  animation-name: imageAnimation;
+  animation-duration: 500ms;
+}
+
+.actions-container-active {
+  background-color: #c9ddf5;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  position: absolute;
+  top: 4em;
+  right: 0;
+  left: 24em;
+  bottom: 0;
+  animation: barsAnimation 500ms linear;
+}
+
+.mc-description {
+  display: none;
+  background-color: #c9ddf5;
+  color: gray;
+  padding: 6em 2.3em;
+  font-size: 130%;
+  position: relative;
+  top: -5em;
+  z-index: -1;
+}
+.mc-description-active {
+  display: block;
+  background-color: #c9ddf5;
+  color: gray;
+  padding: 6em 2.3em;
+  font-size: 130%;
+  position: relative;
+  top: -5em;
+  z-index: -1;
+  animation: descriptionAnimation 500ms linear;
+}
+
+@keyframes imageAnimation {
+  from {
+    transform: scale(20);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes barsAnimation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(720deg);
+  }
+}
+
+@keyframes descriptionAnimation {
+  from {
+    transform: translateY(200px);
+  }
+  to {
+    transform: translate(0);
+  }
+}
