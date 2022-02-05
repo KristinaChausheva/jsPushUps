@@ -54,6 +54,7 @@ img {
   border-radius: 50%;
   margin: 10px;
   z-index: 2;
+  animation: arrowAnimation 5000s;
 }
 
 .header {
@@ -130,6 +131,15 @@ img {
 }
 
 @keyframes barsAnimation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(720deg);
+  }
+}
+
+@keyframes arrowAnimation {
   from {
     transform: rotate(0deg);
   }
