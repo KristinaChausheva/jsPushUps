@@ -11,7 +11,7 @@ var superToggle = function (element, class0, class1) {
   element.classList.toggle(class1)
 }
 
-const moveForward = () => {
+const move = () => {
   setTimeout(() => {
     // superToggle(arrow, "fa-arrow-left", "fa-bars")
     superToggle(bars, "fa-bars", "fa-arrow-left")
@@ -23,4 +23,4 @@ const moveForward = () => {
   superToggle(description, "mc-description", "mc-description-active")
 }
 
-bars.addEventListener("click", moveForward)
+bars.addEventListener("click", move)

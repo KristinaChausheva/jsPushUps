@@ -18,3 +18,4 @@
 | 13  | [Background Slider](https://github.com/KristinaChausheva/jsPushUps/tree/main/background-slider)       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/background-slider)    |
 | 14  | [Search Filter](https://github.com/KristinaChausheva/jsPushUps/tree/main/search-filter)               | [Live Demo](https://kristinachausheva.github.io/jsPushUps/search-filter)        |
 | 15  | [Quiz App](https://github.com/KristinaChausheva/jsPushUps/tree/main/quiz-app)                         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/quiz-app)             |
+| 16  | [Animated Card](https://github.com/KristinaChausheva/jsPushUps/tree/main/card)                        | [Live Demo](https://kristinachausheva.github.io/jsPushUps/card)                 |
