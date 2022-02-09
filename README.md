@@ -21,3 +21,4 @@
 | 16  | [Animated Card](https://github.com/KristinaChausheva/jsPushUps/tree/main/card)                        | [Live Demo](https://kristinachausheva.github.io/jsPushUps/card)                 |
 | 17  | [Vertical Slider](https://github.com/KristinaChausheva/jsPushUps/tree/main/vertical-slider)           | [Live Demo](https://kristinachausheva.github.io/jsPushUps/vertical-slider)      |
 | 18  | [Drawing App](https://github.com/KristinaChausheva/jsPushUps/tree/main/drawing-app)                   | [Live Demo](https://kristinachausheva.github.io/jsPushUps/drawing-app)          |
+| 19  | [Auto Text Effect](https://github.com/KristinaChausheva/jsPushUps/tree/main/auto-text-effect)         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/auto-text-effect)     |
