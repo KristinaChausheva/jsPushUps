@@ -130,6 +130,7 @@ img {
   display: flex;
   position: relative;
   top: -2em;
+  animation: socialAnimation 2s linear;
 }
 
 .social-links {
@@ -228,5 +229,17 @@ img {
   }
   to {
     transform: translate(0, 0);
+  }
+}
+
+@keyframes socialAnimation {
+  0% {
+    /* transform: translate(0, 10em) opacity: 0; */
+    opacity: 0;
+  }
+
+  50% {
+    /* transform: translate(0, 0) opacity(1); */
+    opacity: 1;
   }
 }
