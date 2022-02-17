@@ -24,4 +24,4 @@
 | 19  | [Auto Text Effect](https://github.com/KristinaChausheva/jsPushUps/tree/main/auto-text-effect)         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/auto-text-effect)     |
 | 20  | [Split Landing Page](https://github.com/KristinaChausheva/jsPushUps/tree/main/split-landing-page)     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/split-landing-page)   |
 | 21  | [3d Boxes](https://github.com/KristinaChausheva/jsPushUps/tree/main/3d-boxes)                         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/3d-boxes)             |
-| 22  | [Rotating Navigation](https://github.com/KristinaChausheva/jsPushUps/tree/main/rotating-nav)          | [Live Demo](https://kristinachausheva.github.io/jsPushUps/rotating-n)           |
+| 22  | [Rotating Navigation](https://github.com/KristinaChausheva/jsPushUps/tree/main/rotating-nav)          | [Live Demo](https://kristinachausheva.github.io/jsPushUps/rotating-nav)         |
