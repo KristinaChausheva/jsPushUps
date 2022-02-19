@@ -25,3 +25,4 @@
 | 20  | [Split Landing Page](https://github.com/KristinaChausheva/jsPushUps/tree/main/split-landing-page)     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/split-landing-page)   |
 | 21  | [3d Boxes](https://github.com/KristinaChausheva/jsPushUps/tree/main/3d-boxes)                         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/3d-boxes)             |
 | 22  | [Rotating Navigation](https://github.com/KristinaChausheva/jsPushUps/tree/main/rotating-nav)          | [Live Demo](https://kristinachausheva.github.io/jsPushUps/rotating-nav)         |
+| 22  | [Magic card](https://github.com/KristinaChausheva/jsPushUps/tree/main/magic-card)                     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/magic-card)           |
