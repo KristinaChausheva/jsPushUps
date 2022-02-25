@@ -26,3 +26,4 @@
 | 21  | [3d Boxes](https://github.com/KristinaChausheva/jsPushUps/tree/main/3d-boxes)                         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/3d-boxes)             |
 | 22  | [Rotating Navigation](https://github.com/KristinaChausheva/jsPushUps/tree/main/rotating-nav)          | [Live Demo](https://kristinachausheva.github.io/jsPushUps/rotating-nav)         |
 | 23  | [Magic card](https://github.com/KristinaChausheva/jsPushUps/tree/main/magic-card)                     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/magic-card)           |
+| 24  | [Email Validation](https://github.com/KristinaChausheva/jsPushUps/tree/main/email-validation)         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/email-validation)     |
