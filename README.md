@@ -29,3 +29,4 @@
 | 24  | [Email Validation](https://github.com/KristinaChausheva/jsPushUps/tree/main/email-validation)         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/email-validation)     |
 | 25  | [Animated Login](https://github.com/KristinaChausheva/jsPushUps/tree/main/animated-login)             | [Live Demo](https://kristinachausheva.github.io/jsPushUps/animated-login)       |
 | 26  | [FrontEnd Trends](https://github.com/KristinaChausheva/jsPushUps/tree/main/frontend-trends)           | [Live Demo](https://kristinachausheva.github.io/jsPushUps/frontend-trends)      |
+| 27  | [CSS Waves](https://github.com/KristinaChausheva/jsPushUps/tree/main/css-waves)                       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/css-wavess)           |
