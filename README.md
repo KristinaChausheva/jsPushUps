@@ -28,5 +28,5 @@
 | 23  | [Magic card](https://github.com/KristinaChausheva/jsPushUps/tree/main/magic-card)                     | [Live Demo](https://kristinachausheva.github.io/jsPushUps/magic-card)           |
 | 24  | [Email Validation](https://github.com/KristinaChausheva/jsPushUps/tree/main/email-validation)         | [Live Demo](https://kristinachausheva.github.io/jsPushUps/email-validation)     |
 | 25  | [Animated Login](https://github.com/KristinaChausheva/jsPushUps/tree/main/animated-login)             | [Live Demo](https://kristinachausheva.github.io/jsPushUps/animated-login)       |
-| 26  | [FrontEnd Trends](https://github.com/KristinaChausheva/jsPushUps/tree/main/frontend-trends)           | [Live Demo](https://kristinachausheva.github.io/jsPushUps/frontend-trends)      |
+| 26  | [FrontEnd Games](https://github.com/KristinaChausheva/jsPushUps/tree/main/frontend-games)             | [Live Demo](https://kristinachausheva.github.io/jsPushUps/frontend-games)       |
 | 27  | [CSS Waves](https://github.com/KristinaChausheva/jsPushUps/tree/main/css-waves)                       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/css-wavess)           |
