@@ -116,7 +116,8 @@ a {
   background: #03dac6;
   transition: left 0.3s ease;
 }
-.background {
+/* .background */
+#particles-js {
   position: absolute;
   height: 100vh;
   top: 0;
@@ -156,15 +157,6 @@ a {
   .nav-tab {
     font-size: 1.2vw;
   }
-}
-.background {
-  position: absolute;
-  height: 100vh;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 0;
 }
 .loader span {
   color: #faebd7;
@@ -242,3 +234,10 @@ a {
 .loader span:nth-child(22) {
   animation-delay: 2.1s;
 }
+
+canvas {
+  display: block;
+  /* vertical-align: bottom; */
+}
+
+/* ---- stats.js ---- */
