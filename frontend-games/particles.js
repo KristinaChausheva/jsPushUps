@@ -859,8 +859,7 @@ var pJS = function (tag_id, params) {
         init()
       }
     } else if (
-
-    /* on click event */
+      /* on click event */
       pJS.interactivity.events.onclick.enable &&
       isInArray("bubble", pJS.interactivity.events.onclick.mode)
     ) {
@@ -1050,6 +1049,12 @@ var pJS = function (tag_id, params) {
 
         if (opacity_line > 0) {
           /* style */
+          // if (color.value instanceof Array) {
+          //   var color_selected =
+          //     color.value[
+          //       Math.floor(Math.random() * pJS.particles.color.value.length)
+          //     ]
+          //   this.color.rgb = hexToRgb(color_selected)
           var color_line = pJS.particles.line_linked.color_rgb_line
           pJS.canvas.ctx.strokeStyle =
             "rgba(" +
