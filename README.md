@@ -30,3 +30,4 @@
 | 25  | [Animated Login](https://github.com/KristinaChausheva/jsPushUps/tree/main/animated-login)             | [Live Demo](https://kristinachausheva.github.io/jsPushUps/animated-login)       |
 | 26  | [FrontEnd Games](https://github.com/KristinaChausheva/jsPushUps/tree/main/frontend-games)             | [Live Demo](https://kristinachausheva.github.io/jsPushUps/frontend-games)       |
 | 27  | [CSS Waves](https://github.com/KristinaChausheva/jsPushUps/tree/main/css-waves)                       | [Live Demo](https://kristinachausheva.github.io/jsPushUps/css-wavess)           |
+| 28  | [Domino Clock](https://github.com/KristinaChausheva/jsPushUps/tree/main/domino-clock)                 | [Live Demo](https://kristinachausheva.github.io/jsPushUps/domino-clock)         |
