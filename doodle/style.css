@@ -1,0 +1,48 @@
+button {
+  position: static;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: none;
+  background: #47f7ae;
+  cursor: pointer;
+  transition: top 0.5s cubic-bezier(0.28, 1.44, 0.63, 1.93),
+    left 0.5s cubic-bezier(0.28, 1.44, 0.63, 1.93);
+}
+.active {
+  position: absolute;
+}
+
+.tab {
+  position: fixed;
+  left: 0;
+  width: 300px;
+  height: 100vh;
+  background: #47f7ae;
+  transform: translateX(-300px);
+  transition: transform 0.5s ease;
+}
+.tab .tab-inner {
+  padding: 15px;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* // General */
+html,
+body {
+  height: 100%;
+}
+
+html * {
+  outline: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
